@@ -29,7 +29,27 @@
 	float: left;
   width: 75%;
   margin-top: 6px;
-  /*background-color: yellow;*/
+ /*background-color: yellow;*/
+}
+
+.desplegable{
+	width: 20%;
+}
+
+.terminos{
+	margin-top: 10px;
+	text-align: center;
+}
+
+.botonera{
+	margin-top: 20px;
+	text-align: center;
+}
+
+input[type=button]{
+	padding: 8px;
+	font-size: 15px;
+	margin-right: 10px;
 }
 
 fieldset{
